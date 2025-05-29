@@ -2,7 +2,7 @@
 
 Project ini merupakan aplikasi dekstop sederhana untuk mengubah ekstensi file CSV ke PDF untuk memudahkan melihat dan mengolah data EDOM.
 
-Berikut dokumentasinya
+**Berikut dokumentasinya**
 
 ![image](https://github.com/user-attachments/assets/1102f1f4-65e5-4b0e-b5b0-fe914c0cdf34)
 
@@ -18,6 +18,6 @@ Berikut dokumentasinya
 
 
 
-Tampilan singkat
+**Tampilan singkat**
 
 ![image](https://github.com/user-attachments/assets/4b6a4fe2-6d1a-4f1a-acad-25f183cd16b5)
